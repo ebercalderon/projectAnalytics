@@ -1,6 +1,16 @@
-<H1 align ="center" > Project Analytics  </h1>
-<h5  align ="center"> 
-Analytical part of the web system project </h5>
+<h1 align ="center" > Project Analytics </h1>
+
+<h4 align ="center"> Analytical part of the web system project </h4>
+
+<br/>
+<p align="center">
+    <a href="https://github.com/ebercalderon/projectBackend">
+      <img src="https://img.shields.io/badge/project-Backend-blue" /></a> &#xa0;
+    <a href="https://github.com/ebercalderon/projectFrontend">
+      <img src="https://img.shields.io/badge/project-Frontend-blue" /></a> &#xa0;     
+    <a href="https://github.com/ebercalderon/projectGateway">
+      <img src="https://img.shields.io/badge/project-Gateway-blueviolet" /></a>
+</p>
 <br/>
 
   * [Configuration and Setup](#configuration-and-setup)
@@ -8,6 +18,7 @@ Analytical part of the web system project </h5>
   * [Technologies used](#technologies-used)
   * [Screenshots](#screenshots)
   * [Acknowledgments](#acknowledgments)
+  * [Contributors](#contributors)
   * [License](#license)
 
 
