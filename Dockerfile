@@ -1,6 +1,6 @@
 FROM golang:1.18.3-alpine
 
-WORKDIR /erpanalytics
+WORKDIR /projectanalytics
 
 COPY go.mod ./
 COPY go.sum ./
@@ -8,7 +8,7 @@ COPY go.sum ./
 RUN go mod download
 COPY . ./
 
-RUN go build -o /erp_analytics
+RUN go build -o /project_analytics
 
 EXPOSE 6060
-CMD [ "/erp_analytics" ]
+CMD [ "/project_analytics" ]
